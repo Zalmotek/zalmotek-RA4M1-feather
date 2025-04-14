@@ -8,7 +8,7 @@ This project demonstrates the DAC module functionality on the Zalmotek Ra4M1 Fea
 
 ## Hardware Requirements
 
-- Zalmotek Ra4M1 Feather board featuring Renesas RA4M1
+- Zalmotek Ra4M1 Feather
 - J-Link debugger/programmer
 - USB cable
 - Computer with J-Link software installed

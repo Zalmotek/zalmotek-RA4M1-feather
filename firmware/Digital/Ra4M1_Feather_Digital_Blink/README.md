@@ -8,7 +8,7 @@ This project implements a multi-pin LED blinking application for the Zalmotek RA
 
 ## Hardware Requirements
 
-- Zalmotek RA4M1 Feather board featuring Renesas RA4M1 microcontroller
+- Zalmotek RA4M1 Feather board 
 - LEDs connected to pins D5, D6, D9, D10, D11, D12, and D13 (or use on-board LED)
 - USB cable for programming and power
 

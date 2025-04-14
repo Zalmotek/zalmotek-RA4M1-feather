@@ -8,7 +8,7 @@ This project demonstrates I2C communication between a Renesas RA4M1 microcontrol
 
 ## Hardware Requirements
 
-- Zalmotek RA4M1 Feather board featuring Renesas RA4M1 microcontroller
+- Zalmotek RA4M1 Feather board 
 - ADXL345 accelerometer sensor
 - USB cable for power and communication
 

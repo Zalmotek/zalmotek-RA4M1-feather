@@ -8,7 +8,7 @@ This project demonstrates UART communication between the Zalmotek RA4M1 Feather 
 
 ## Hardware Requirements
 
-- Zalmotek RA4M1 Feather board (featuring Renesas RA4M1 microcontroller)
+- Zalmotek RA4M1 Feather board 
 - TF Luna Lidar sensor
 - Jumper wires for connections
 
